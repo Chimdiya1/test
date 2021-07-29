@@ -1,0 +1,39 @@
+td {
+  background-color: #fff;
+  /* &:first-child{
+        display: flex;
+         align-items: center;
+         color: #414042;
+
+    }
+    color: #7F8FA4;
+    .Reconcilled{
+        color: #27AE60;
+    }
+    .Pending{
+        color: #EBC315;
+    }
+    .Unreconcilled{
+        color: #7F8FA4;
+    }
+   .label{
+        width: 120px;
+        height: 33px;
+        border: 1px solid #CCCFD4;
+        border-radius: 30px;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        i{
+            font-size: 10px;
+            margin:0px 5px 0px 10px;
+        }
+   } */
+}
+td,
+th {
+  border-bottom: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  padding-left: 26px;
+}
