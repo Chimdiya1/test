@@ -26,6 +26,11 @@ function App() {
   return (
     <div className="App">
       <h3>Test</h3>
+      <p>
+        To Sort the table with a column, copy the heading of the column and add
+        it to the query
+      </p>
+      <p>E.g. /?orderByField=All-Buildings</p>
       {data && <Table data={data.data} />}
     </div>
   );
